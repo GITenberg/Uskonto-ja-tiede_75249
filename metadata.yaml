@@ -1,0 +1,37 @@
+_repo: Uskonto-ja-tiede_75249
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Södermann, Anto
+    gutenberg_agent_id: '57900'
+    url: http://www.gutenberg.org/2009/agents/57900
+creator:
+  author:
+    agent_name: Høffding, Harald
+    aliases:
+    - Hoffding, Harald
+    - Höffding, Harold
+    - Höffding, Harald
+    birthdate: 1843
+    deathdate: 1931
+    gutenberg_agent_id: '33459'
+    url: http://www.gutenberg.org/2009/agents/33459
+    wikipedia: https://en.wikipedia.org/wiki/Harald_H%C3%B8ffding
+description: ''
+gutenberg_issued: '2025-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75249'
+language: fi
+pgterms:marc905: 20250128094107hffding
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Scanned and digitized by Petteri Pitkänen
+publication_note: '  $aHelsinki :$bKustannusosakeyhtiö Otava, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Uskonto ja tiede
+url: http://www.gutenberg.org/ebooks/75249
