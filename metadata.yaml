@@ -5,6 +5,9 @@ contributor:
     agent_name: Södermann, Anto
     gutenberg_agent_id: '57900'
     url: http://www.gutenberg.org/2009/agents/57900
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Høffding, Harald
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33459
     wikipedia: https://en.wikipedia.org/wiki/Harald_H%C3%B8ffding
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75249#Uskonto-ja-tiede
 gutenberg_issued: '2025-01-30'
 gutenberg_type: Text
 identifiers:
